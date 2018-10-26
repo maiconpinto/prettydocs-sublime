@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+---
+layout: ${1:page}
+title: ${2:Title of page}
+cards-section: ${3:blue}
+intro: ${4:Intro of page}
+icon: ${5:icon_gift}
+permalink: ${6:components}
+---
+]]></content>
+<tabTrigger>prettydocs-page-init</tabTrigger>
+<description>PrettyDocs: Page Init</description>
+</snippet>
