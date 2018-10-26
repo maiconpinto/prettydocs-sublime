@@ -2,11 +2,11 @@
 <content><![CDATA[
 ---
 layout: ${1:page}
-title: ${2:Title of page}
-cards-section: ${3:blue}
-intro: ${4:Intro of page}
-icon: ${5:icon_gift}
-permalink: ${6:components}
+title: ${2:Quick Start}
+cards-section: ${3:green}
+intro: ${4:Demo example, consectetuer adipiscing elit}
+icon: ${5:<i class="icon fa fa-paper-plane"></i>}
+permalink: ${6:quick-start}
 ---
 ]]></content>
 <tabTrigger>prettydocs-page-init</tabTrigger>
