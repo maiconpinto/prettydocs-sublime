@@ -20,4 +20,3 @@ List of Snippets:
 - PrettyDocs: Page Example
 - PrettyDocs: Elements Menu Item
 - PrettyDocs: Elements Submenu Item
-- PrettyDocs: Elements Promo Block
