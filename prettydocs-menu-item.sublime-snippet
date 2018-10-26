@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+<li>
+    <a href="${2:#name-section}" class="scrollto">${1:Name Section}</a>
+</li>
+]]></content>
+<tabTrigger>prettydocs-menu-item</tabTrigger>
+<description>PrettyDocs: Elements Menu Item</description>
+</snippet>
