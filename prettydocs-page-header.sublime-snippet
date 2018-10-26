@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+{% include header.html ${1:
+icon="${2:fa fa-hashtag}"
+title="${3:Quick}"
+bold="${4:Start}"${5:
+breadcrumb=""}${6:
+breadcrumb-home-link="${7:index.html}"
+breadcrumb-home-title="${8:Home}"
+breadcrumb-active="${9:Quick Start}"
+}}%}
+]]></content>
+<tabTrigger>prettydocs-page-header</tabTrigger>
+<description>PrettyDocs: Page Header</description>
+</snippet>
