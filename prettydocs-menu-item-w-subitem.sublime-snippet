@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+<li>
+    <a href="${2:#name-section}" class="scrollto">${1:Name Section}</a>
+    <ul class="nav doc-sub-menu">
+        ${3:<!-- doc-menu li item -->}
+    </ul>
+</li>
+]]></content>
+<tabTrigger>prettydocs-menu-item-w-subitem</tabTrigger>
+<description>PrettyDocs: Elements Menu Item with Submenu Item</description>
+<scope>text.html.markdown, meta.paragraph.markdown, markup.raw.code-fence.markdown-gfm</scope>
+</snippet>
