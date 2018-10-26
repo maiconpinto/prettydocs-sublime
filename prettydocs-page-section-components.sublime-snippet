@@ -1,0 +1,16 @@
+<snippet>
+<content><![CDATA[
+<section id="dashboards" class="doc-section">
+    <h2 class="section-title">${1:Dashboards}</h2>
+    <div class="section-block">
+        ${2:<p>Welcome! The screenshots used in this page are taken from <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">AppKit</a>. AppKit is a Bootstrap Angular admin theme.</p>
+        <ul class="list list-inline">
+            <li class="list-inline-item"><a class="btn btn-cta btn-pink" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><i class="fas fa-external-link-alt"></i> AppKit Details</a></li>
+            <li class="list-inline-item"><a class="btn btn-cta btn-primary" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><i class="fas fa-eye"></i> AppKit Demo</a></li>
+        </ul>}
+    </div>
+</section>
+]]></content>
+<tabTrigger>prettydocs-page-section-components</tabTrigger>
+<description>PrettyDocs: Page Content - Section Components</description>
+</snippet>
