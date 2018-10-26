@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+<section id="free-themes" class="doc-section">
+    <h2 class="section-title">${1:Free Themes}</h2>
+    <div class="section-block">
+        ${2:<!-- content -->}
+    </div>
+</section>
+]]></content>
+<tabTrigger>prettydocs-page-section-showcase</tabTrigger>
+<description>PrettyDocs: Page Content - Section Showcase</description>
+</snippet>
