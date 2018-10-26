@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+<section id="license" class="doc-section">
+    <h2 class="section-title">${1:PrettyDocs License}</h2>
+    <div class="section-block">
+        ${2:<!-- content -->}
+    </div>
+</section>
+]]></content>
+<tabTrigger>prettydocs-page-section-license-credits</tabTrigger>
+<description>PrettyDocs: Page Content - Section License & Credits</description>
+</snippet>
