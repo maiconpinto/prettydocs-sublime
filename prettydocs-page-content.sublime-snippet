@@ -1,0 +1,32 @@
+<snippet>
+<content><![CDATA[
+<div class="doc-wrapper">
+    <div class="container">
+        <div id="doc-header" class="doc-header text-center">
+            <h1 class="doc-title">
+                <i class="icon fa fa-paper-plane">${1:Quick Start}</i>
+            </h1>
+            <div class="meta">
+                <i class="fa fa-clock-o">${2:Last Update on}</i>
+            </div>
+        </div>
+        <div class="doc-body">
+            <div class="doc-content">
+                <div class="content-inner">
+                    ${3:<!-- #sections of page-->}
+                </div>
+            </div>
+            <div class="doc-sidebar hidden-xs">
+                <nav id="doc-nav">
+                    <ul id="doc-menu" class="nav doc-menu" data-spy="affix">
+                        ${4:<!-- nav li item-->}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+]]></content>
+<tabTrigger>prettydocs-page-content</tabTrigger>
+<description>PrettyDocs: Page Content (Wrap)</description>
+</snippet>
