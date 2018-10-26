@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[
+<section id="chartjs" class="doc-section">
+    <h2 class="section-title">${1:Chart.js}</h2>
+    <div class="section-block">
+        ${2:<h3 class="block-title">1. Screenshot</h3>
+        <p>The screenshots used in this page are taken from <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">AppKit</a>. AppKit is a Bootstrap Angular admin theme.</p>
+        <div class="screenshot-holder">
+            <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-fluid" src="assets/images/demo/appkit-chart-chartjs.jpg" alt="screenshot" /></a>
+            <a class="mask" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><i class="icon fa fa-link"></i></a>
+        </div>}
+    </div>
+</section>
+]]></content>
+<tabTrigger>prettydocs-page-section-charts</tabTrigger>
+<description>PrettyDocs: Page Content - Section Charts</description>
+</snippet>
